@@ -1,4 +1,4 @@
-# 深度学习 · 课后作业（三）
+# 深度学习 · 课后作业（二）
 
 > 内容：ResNet 残差块梯度推导、Highway Network 与 ResNet 对比、DenseNet 与 ResNet 对比
 
